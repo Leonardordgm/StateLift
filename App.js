@@ -1,8 +1,7 @@
 import React from 'react';
-import './App.css';
-import SeuNome from './evento/SeuNome';
+import SeuNome from './SeuNome';
 import { useState } from 'react';
-import Saudacao from './evento/Saudacao';
+import Saudacao from './Saudacao';
 
 function App() {
 
